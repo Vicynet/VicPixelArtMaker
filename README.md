@@ -15,6 +15,6 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
-## Link to my project GitHub Page, tested and working on Chrome browser
+## Link to my project GitHub Page, tested and working on Chrome and Samsung internet browser
 
 https://vicynet.github.io/VicPixelArtMaker/
