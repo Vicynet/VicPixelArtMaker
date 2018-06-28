@@ -17,4 +17,4 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 
 ## Link to my project GitHub Page, tested and working on Chrome browser
 
-https://vicynet.github.io/ALC-FINAL-PROJECT---PIXEL-ART-MAKER/
+https://vicynet.github.io/VicPixelArtMaker/
